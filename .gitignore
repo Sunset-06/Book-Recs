@@ -172,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# dataset
+dataset
+# for safety
+books.csv
+ratings.csv
+users.csv
